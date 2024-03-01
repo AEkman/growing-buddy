@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestPrintApplicationStarted(t *testing.T) {
 	want := "Growing Buddy application started!"
