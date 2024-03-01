@@ -7,4 +7,5 @@
 !.gitignore
 !Dockerfile
 !go.mod
+!go.sum
 !README.md
