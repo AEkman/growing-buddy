@@ -1,5 +1,8 @@
 *
+!*/
+
+!/.github/**
+!/cmd/**
+
 !.gitignore
-!.github/
-!cmd/
 !go.mod
